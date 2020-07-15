@@ -7,6 +7,7 @@ The application have two different roles
 * Stuff member can register customers to the system
 * Edit or delete customer information
 * Create and store customer rentals 
+* Sort customer names and movies
 
 ### Admin
 * Admin can do all the roles a customer does and more.
