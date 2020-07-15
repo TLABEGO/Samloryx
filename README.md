@@ -3,10 +3,16 @@
 This application is called Samloryx and it is supposed to be used in movie rental stores.
 
 The application have two different roles
-#### Admin - 
+### Stuff member
+- Stuff member can register customers to the system
+- Edit or delete customer information
+- Create and store customer rentals 
 
-
-#### Stuff member 
+### Admin
+- Admin can do all the roles a customer does and more.
+- More
+      * Add movies to the systen
+      * Edit or delete movies
 
 
 ### Main features of the system include:
