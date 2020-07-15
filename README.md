@@ -18,6 +18,6 @@ Make sure to follow all these steps exactly as explained below. Do not miss any 
 ### Install Microsoft SQL Server Management Studio
 To run this project, you need to install the latest version of Install Microsoft SQL Server Management Studio
 
-[Download and Install Microsoft SQL Server Management Studio](www.google.com)
+[](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
 
 Once you install Microsoft SQL Server Management Studio, make sure it's running.
