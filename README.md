@@ -9,10 +9,10 @@ The application have two different roles
 2. Stuff member -
 
 
-#### Main features of the system include:
+### Main features of the system include:
   - 
 
 # Setup
 Make sure to follow all these steps exactly as explained below. Do not miss any steps or you won't be able to run this application.
 
-#### Install Microsoft SQL Server Management Studio
+### Install Microsoft SQL Server Management Studio
