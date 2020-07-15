@@ -3,7 +3,11 @@
 This application is called Samloryx and it is supposed to be used in movie rental stores.
 
 The application have two different roles
-1. Admin
-2. Stuff member
+1. Admin - 
 
-This system is used by tellers at movie rental store.
+
+2. Stuff member -
+
+
+Main features of the system include:
+  - 
