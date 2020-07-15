@@ -15,8 +15,11 @@ The application have two different roles
 # Setup
 Make sure to follow all these steps exactly as explained below. Do not miss any steps or you won't be able to run this application.
 
+### Clone the project into your machine
+[Clone]()
+
 ### Install Visual Studio
-To run or edit this project, you need to install Miscrosft Install Visual Studio Community edition.
+To run, test or edit this project, you need to install Miscrosft Install Visual Studio Community edition.
 
 [Download Visual Studio](https://visualstudio.microsoft.com/downloads/)
 
