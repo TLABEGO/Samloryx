@@ -10,7 +10,7 @@ The application have two different roles
 * Sort customer names and movies
 
 ### Admin
-* Admin can do all the roles a customer does and more.
+* Admin can do all the roles stuff member can do and more.
 * More
      * Add movies to the systen
      * Edit or delete movies
