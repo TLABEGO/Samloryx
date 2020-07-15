@@ -11,12 +11,9 @@ The application have two different roles
 ### Admin
 * Admin can do all the roles a customer does and more.
 * More
-      * Add movies to the systen
-      * Edit or delete movies
+     * Add movies to the systen
+     * Edit or delete movies
 
-
-### Main features of the system include:
-  - 
 
 # Setup
 Make sure to follow all these steps exactly as explained below. Do not miss any steps or you won't be able to run this application.
